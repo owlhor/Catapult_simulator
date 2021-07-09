@@ -9,4 +9,6 @@ Run main.py(Main Tkinter UI) as main code.
 pygrender2.py -> pygame graphic renderrer.
 bomb.py -> Projectile renderrer(on pygrender2,pygame).
 Calculation.py -> simulate equation.
-
+#---------------------------------
+For .exe set
+https://drive.google.com/file/d/1uwP5mTf-ZFFnGcxluyPPSZvzEdi__LQw/view?usp=sharing
